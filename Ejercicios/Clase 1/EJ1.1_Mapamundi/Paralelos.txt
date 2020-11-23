@@ -1,0 +1,35 @@
+#Paralelos principales y Meridiano de Greenwich. Datos en LONG/LAT
+#Ecuador
+-180	0
+0	0
+90	0
+180	0
+>
+#Tropico de Cancer
+-180	23
+0	23
+90	23
+180	23
+>
+#Tropico de Capricornio
+-180	-23
+0	-23
+90	-23
+180	-23
+>
+# Circulo polar Ártico
+-180	66
+0	66
+90	66
+180	66
+>
+# Circulo polar Antártico
+-180	-66
+0	-66
+90	-66
+180	-66
+>
+# Greenwich
+0	90
+0	0
+0	-90
