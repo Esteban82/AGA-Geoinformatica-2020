@@ -1,0 +1,18 @@
+Referencias de las base de datos usadas:
+
+Datos IGN: 
+
+
+
+Grillas GMRT:
+
+
+Mecanismos Focales:
+
+
+
+Sismos_Input:
+
+
+Eigen-6c4_76909.gdf
+
