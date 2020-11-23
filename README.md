@@ -31,21 +31,21 @@ Se espera que el/la alumno/a al finalizar el curso pueda:
 
 4. Programa
 
-1. Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
+  1. Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
 
-2. Crear mapas físico-políticos (mapamundis, hemisféricos). Graficar costas, ríos, lagos, continentes, países, provincias, ciudades, rutas. Dibujar puntos, líneas y polígonos. Utilización de datos vectoriales del Instituto Geográfico Nacional disponibles en la web.
+  2. Crear mapas físico-políticos (mapamundis, hemisféricos). Graficar costas, ríos, lagos, continentes, países, provincias, ciudades, rutas. Dibujar puntos, líneas y polígonos. Utilización de datos vectoriales del Instituto Geográfico Nacional disponibles en la web.
 
-3. Crear mapas geológicos (temáticos). Dibujar unidades geológicas, fallas, límite de placas, sismos, mecanismos focales. Utilización de datos disponibles en la Web: Global CMT Catalog Search, Plates Project. 
+  3. Crear mapas geológicos (temáticos). Dibujar unidades geológicas, fallas, límite de placas, sismos, mecanismos focales. Utilización de datos disponibles en la Web: Global CMT Catalog Search, Plates Project. 
 
-4. Crear mapas batimétricos-topográficos a partir de grillas. Curvas de nivel y sombreados (hill-shaded). Generación de mapas de pendientes, aspecto. Mapa de calor (heatmap). Utilización de grillas disponibles en la web: SRTM, GMRT.
+  4. Crear mapas batimétricos-topográficos a partir de grillas. Curvas de nivel y sombreados (hill-shaded). Generación de mapas de pendientes, aspecto. Mapa de calor (heatmap). Utilización de grillas disponibles en la web: SRTM, GMRT.
 
-5. Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación. 
+  5. Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación. 
 
-6. Elaboración de mapas 2D en perspectiva y de bloques 3D. Animaciones. 
+  6. Elaboración de mapas 2D en perspectiva y de bloques 3D. Animaciones. 
 
-7. Perfiles topográficos a partir de grillas y de tablas. Perfiles apilados y superpuestos. 
+  7. Perfiles topográficos a partir de grillas y de tablas. Perfiles apilados y superpuestos. 
 
-8. Crear gráficos cartesianos (lineales y logarítmicos). Histogramas y diagramas de rosa. Ejemplos de diagramas Harker, de clasificación de rocas y de tierras raras, y análisis de lineamientos. 
+  8. Crear gráficos cartesianos (lineales y logarítmicos). Histogramas y diagramas de rosa. Ejemplos de diagramas Harker, de clasificación de rocas y de tierras raras, y análisis de lineamientos. 
 
 
 5. Destinatarios
