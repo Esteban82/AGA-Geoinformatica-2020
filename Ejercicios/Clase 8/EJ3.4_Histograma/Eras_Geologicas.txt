@@ -1,0 +1,12 @@
+0	ig	Cenozoico
+66	ig	Mesozoico
+252.17	ig	Paleozoico
+541	ig	Neoproterozoico
+1000	ig	Mesoproterozoico
+1600	ig	Paleoproterozoico
+2500	ig	Neoarcaico
+2800	ig	Mesoarcaico
+3200	ig	Paleoarcaico
+3600	ig	Eoarcaico
+4000	ig	Hadico
+4540	ig	

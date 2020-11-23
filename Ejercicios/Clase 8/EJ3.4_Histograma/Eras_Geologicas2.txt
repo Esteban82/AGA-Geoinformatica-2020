@@ -1,0 +1,12 @@
+0	ig	Cz
+66	ig	Mz
+252.17	ig	Pz
+541	ig	Np
+1000	ig	Mp
+1600	ig	Pp
+2500	ig	Na
+2800	ig	Ma
+3200	ig	Pa
+3600	ig	Ea
+4000	ig	Ha
+4540	ig	

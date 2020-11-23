@@ -1,0 +1,5 @@
+0	ig	Fanerozoico
+541	ig	Proterozoico
+2500	ig	Arqueano
+4000	ig	Hadeano
+4540	ig	

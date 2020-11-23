@@ -1,0 +1,83 @@
+En este ejemplo vamos a adaptar el script anterior para elaborar una gráfico logarítmico (Diagrama de Clasificación de Rocas Volcánicas). Además se grafican distintos conjuntos de datos. 
+
+
+Diagrama de Clasificación de Rocas volcánicas (Winchester y Floyd 1977).
+
+
+
+
+Preparación de los Datos:
+
+Los datos deben estar en archivos de texto simple (bloc de notas) en 2 columnas (X e Y) como se mostró en el ejemplo anterior. Para cada conjuntos de datos (ej. misma Formación, Grupo, etc.) se debe armar un archivo distinto.
+
+
+Descripción del Script (Link):
+
+
+Variables del mapa:
+
+
+1. Región: Se definen los rangos de los ejes. El eje X varía entre 0.01 y 10, mientras que el eje Y entre 0.001 y 10.
+
+
+rem    Region Geografica/Figura (WESN)
+    SET    REGION=0.01/10/0.001/10
+
+
+2. Proyección: Para hacer una figura lineal utilizamos la proyección no geográfica (X) y definimos el ancho (15 cm) y alto (10 cm) de la figura. Para indicar que los ejes son logarítmicos (en lugar de lineales) hay que agregar una "l" luego de la dimensión de cada eje (15cl/10cl). Si uno quisiera que sólo el eje X sea logarítmico y el eje otro lineal, habría que escribir "15cl/10c".
+
+
+REM    Proyeccion No Geografica. Linear, Logaritmica (l), Exponencial. JXwidth[/height]
+    SET    PROJ=X15cl/10cl
+
+
+Mapa/Figura:
+
+
+
+3. Comandos previos. Utilizo el comando de fondo del gráfico y adapto los de los títulos del gráfico y de los ejes de la entrada anterior.
+
+
+Cuando se utilizan ejes logarítmicos las anotaciones de los ejes tienen otro significado. Hay 3 formas predefinidas (1, 2 y 3) que corresponden a las siguiente notaciones:
+
+1=1,10,100, etc.
+
+2=1,2,5,10,20,50,100,etc
+
+3=1,2,3,4,5,6,7,8,9,10,20,30,40,50,etc.
+
+
+Para el eje X indicamos la anotación 2, con el marco 3 (-Bxa2f3). En cambio para el eje Y, usamos la anotación 1, con el marco 3 (-Bya1f3p). Le agregamos el prefijo "p" para obtener una notación científica.
+
+
+
+rem    Titulo de los ejes (X Y) por separado: (a)notacion), (f)rame y (l)abel. p: notacion cientifica. a1f3p.
+    gmt psbasemap -R -J -O -K >> %OUT% -Bxa2f3+l"Nb/Y (ppm)"
+    gmt psbasemap -R -J -O -K >> %OUT% -Bya1f3p+l"Zr/Ti (ppm)"
+
+
+
+ 
+
+
+
+4. Campos: Para graficar las líneas de los campos utilicé los datos disponibles en este link que los incluí en el archivo NbY_ZrTi.txt con el mismo formato descripto en la preparación de datos. Para dibujar líneas se utiliza psxy -W el cual se explico previamente.
+
+
+rem    Graficar Campos
+    gmt psxy -R -J -O -K NbY_ZrTi.txt -Wthin >> %OUT%
+
+
+
+
+5. Datos: Finalmente, con la opción psxy -S dibujamos los datos del gráfico. Para los datos de Litofacies2 defino un círculo (c) rojo de 0,25 cm de diámetro. Para Litofacies3 un triángulo (t) azul circunscrito en un círculo de 0,25 cm de diámetro, y para Lacolito, un cuadro (s) verde también circunscrito en un círculo de 0,25 cm de diámetro.
+
+
+
+rem    Graficar Datos
+    gmt psxy -R -J -O -K Litofacies2 -Sc0.25 -Gred >> %OUT%
+    gmt psxy -R -J -O -K Litofacies3 -St0.25 -Gblue >> %OUT% 
+    gmt psxy -R -J -O -K Lacolito -Ss0.25 -Ggreen >> %OUT% 
+
+
+
