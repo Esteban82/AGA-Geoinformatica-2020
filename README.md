@@ -29,29 +29,25 @@ Se espera que el/la alumno/a al finalizar el curso pueda:
 
 • tener un dominio fundamental de los programas utilizados lo que le permita desarrollar de forma autodidacta figuras y procesamientos más complejos según sus propias necesidades.
 
-4. Programa
+4. Programa analítico: 
 
-  1. Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
+  • Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
+  
+  • Crear mapas físico-políticos (mapamundis, hemisféricos). Graficar costas, ríos, lagos, continentes, países, provincias, ciudades, rutas. Dibujar puntos, líneas y polígonos. Utilización de datos vectoriales del Instituto Geográfico Nacional disponibles en la web.
+  
+  • Crear mapas geológicos (temáticos). Dibujar unidades geológicas, fallas, límite de placas, sismos, mecanismos focales. Utilización de datos disponibles en la Web: Global CMT Catalog Search, Plates Project.
+  • Crear mapas batimétricos-topográficos a partir de grillas. Curvas de nivel y sombreados (hill-shaded). Generación de mapas de pendientes, aspecto. Mapa de calor (heatmap). Utilización de grillas disponibles en la web: SRTM, GMRT.
+  
+  • Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación. 
+  • Elaboración de mapas 2D en perspectiva y de bloques 3D. Animaciones.
+  
+  • Perfiles topográficos a partir de grillas y de tablas. Perfiles apilados y superpuestos.
+  
+  • Crear gráficos cartesianos (lineales y logarítmicos). Histogramas y diagramas de rosa. Ejemplos de diagramas Harker, de clasificación de rocas y de tierras raras, y análisis de lineamientos. 
 
-  2. Crear mapas físico-políticos (mapamundis, hemisféricos). Graficar costas, ríos, lagos, continentes, países, provincias, ciudades, rutas. Dibujar puntos, líneas y polígonos. Utilización de datos vectoriales del Instituto Geográfico Nacional disponibles en la web.
+5. Destinatarios:
 
-  3. Crear mapas geológicos (temáticos). Dibujar unidades geológicas, fallas, límite de placas, sismos, mecanismos focales. Utilización de datos disponibles en la Web: Global CMT Catalog Search, Plates Project. 
-
-  4. Crear mapas batimétricos-topográficos a partir de grillas. Curvas de nivel y sombreados (hill-shaded). Generación de mapas de pendientes, aspecto. Mapa de calor (heatmap). Utilización de grillas disponibles en la web: SRTM, GMRT.
-
-  5. Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación. 
-
-  6. Elaboración de mapas 2D en perspectiva y de bloques 3D. Animaciones. 
-
-  7. Perfiles topográficos a partir de grillas y de tablas. Perfiles apilados y superpuestos. 
-
-  8. Crear gráficos cartesianos (lineales y logarítmicos). Histogramas y diagramas de rosa. Ejemplos de diagramas Harker, de clasificación de rocas y de tierras raras, y análisis de lineamientos. 
-
-
-5. Destinatarios
-
-El curso esta destinado a alumnos/as avanzados, de posgrado, profesores de geología, geofísica, oceanografía y disciplinas afines dentro de las Ciencias de la Tierra. Para el curso no se requieren conocimientos previos de informática. Los ejercicios (y scripts) están explicados para Windows. 
-
+alumnos/as avanzados, de posgrado, profesores de geología, geofísica, oceanografía y disciplinas afines dentro de las Ciencias de la Tierra. Para el curso no se requieren conocimientos previos de informática. Los ejercicios (y scripts) están explicados para Windows. 
 
 6. Bibliografía
 
