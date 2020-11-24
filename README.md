@@ -5,7 +5,7 @@ Dictado por Federico D. Esteban y Jorge Lozano.
 
 
 ## Aclaración
-Todo el material y cotenido aquí compartido es para para entusiastas autodidactas que quieran aprender por su cuenta.
+Todo el material y cotenido aquí compartido es para entusiastas autodidactas que quieran aprender por su cuenta.
 
 
 ## Clases 
