@@ -9,9 +9,8 @@ Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tm
 
 ## Datos 
 
-## Programa del curso
 
-## Contenido del curso: 
+## Contenido del curso
 
   • Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
   
@@ -40,7 +39,6 @@ Para el curso no se requieren conocimientos previos de informática. Los ejercic
 ## Sitio Web del curso: 
 
 http://mapasgeologicos.blogspot.com.ar/. Contiene los ejercicios prácticos a realizar en el curso.
-
 
 
 ## Licencia
