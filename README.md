@@ -10,6 +10,7 @@ Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tm
 ## Datos 
 
 
+
 ## Contenido del curso
 
   • Trabajo con Scripts y archivos de procesamiento por lotes (batch). Comandos básicos de MS-DOS. Variables.
@@ -28,11 +29,11 @@ Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tm
   
   • Crear gráficos cartesianos (lineales y logarítmicos). Histogramas y diagramas de rosa. Ejemplos de diagramas Harker, de clasificación de rocas y de tierras raras, y análisis de lineamientos. 
 
-## Destinatarios:
+## Destinatarios
 
 Alumnos/as avanzados/as, de posgrado, profesores de geología, geofísica, oceanografía y disciplinas afines dentro de las Ciencias de la Tierra.
 
-## Conocimientos previos: 
+## Conocimientos previos
 
 Para el curso no se requieren conocimientos previos de informática. Los ejercicios (y scripts) están explicados para Windows.
 
