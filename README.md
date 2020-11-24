@@ -41,6 +41,8 @@ Para el curso no se requieren conocimientos previos de informática. Los ejercic
 http://mapasgeologicos.blogspot.com.ar/. Contiene los ejercicios prácticos a realizar en el curso.
 
 
+Para más información ver el [programa del curso](https://github.com/Esteban82/AGA_Geoinformatica_2020/blob/main/2020_CursoGeoinformatica_Programa_AGA.pdf)
+
 ## Licencia
 
 [![CC BY 4.0][cc-by-image]][cc-by]
