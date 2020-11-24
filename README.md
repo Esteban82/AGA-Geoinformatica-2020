@@ -4,12 +4,15 @@ Clases virtuales del Curso "Geoinformática aplicada a la cartografía multitem�
 Dictado por Federico D. Esteban y Jorge Lozano.
 
 
+## Aclaración
+Todo el material y cotenido aquí compartido es para para entusiastas autodidactas que quieran aprender por su cuenta.
+
+
 ## Clases 
 Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tmlw4NuPWpQ4HDYnSiAxm3VvzYuddc0) de la Asociación Geológica Argentina .
 
 ## Datos 
-Ver referencias, links y explicaciones de descarga en: http://mapasgeologicos.blogspot.com/p/blog-page_70.html
-
+Ver referencias, links y explicaciones de descarga en: http://mapasgeologicos.blogspot.com/p/blog-page_70.html.
 
 
 ## Contenido del curso
