@@ -9,7 +9,7 @@ Todo el material y cotenido aquí compartido es para entusiastas autodidactas qu
 
 
 ## Clases 
-Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tmlw4NuPWpQ4HDYnSiAxm3VvzYuddc0) de la Asociación Geológica Argentina .
+Disponibles en el canal de [YouTube](https://www.youtube.com/playlist?list=PL_Tmlw4NuPWpQ4HDYnSiAxm3VvzYuddc0) de la Asociación Geológica Argentina.
 
 ## Datos 
 Ver referencias, links y explicaciones de descarga en: http://mapasgeologicos.blogspot.com/p/blog-page_70.html.
