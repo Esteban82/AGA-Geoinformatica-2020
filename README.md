@@ -35,9 +35,11 @@ Se espera que el/la alumno/a al finalizar el curso pueda:
   • Crear mapas físico-políticos (mapamundis, hemisféricos). Graficar costas, ríos, lagos, continentes, países, provincias, ciudades, rutas. Dibujar puntos, líneas y polígonos. Utilización de datos vectoriales del Instituto Geográfico Nacional disponibles en la web.
   
   • Crear mapas geológicos (temáticos). Dibujar unidades geológicas, fallas, límite de placas, sismos, mecanismos focales. Utilización de datos disponibles en la Web: Global CMT Catalog Search, Plates Project.
+  
   • Crear mapas batimétricos-topográficos a partir de grillas. Curvas de nivel y sombreados (hill-shaded). Generación de mapas de pendientes, aspecto. Mapa de calor (heatmap). Utilización de grillas disponibles en la web: SRTM, GMRT.
   
-  • Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación. 
+  • Agregar, editar y personalizar leyendas, escalas gráficas, escalas a partir de paleta de colores, norte, mapa de ubicación.
+  
   • Elaboración de mapas 2D en perspectiva y de bloques 3D. Animaciones.
   
   • Perfiles topográficos a partir de grillas y de tablas. Perfiles apilados y superpuestos.
