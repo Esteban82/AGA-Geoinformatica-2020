@@ -1,7 +1,7 @@
 # Geoinformática aplicada a la cartografía multitemática. 
 Clases virtuales del Curso "Geoinformática aplicada a la cartografía multitemática" brindado por la Asociación Geológica Argentina (AGA) en agosto y septiembre de 2020.
 
-Dictado por [Federico D. Esteban](Esteban82) y [Jorge Lozano](jorgegabriellozano).
+Dictado por [Federico D. Esteban](https://github.com/Esteban82) y [Jorge Lozano](https://github.com/jorgegabriellozano).
 
 
 ## Aclaración
