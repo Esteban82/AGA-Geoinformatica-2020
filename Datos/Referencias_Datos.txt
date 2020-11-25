@@ -18,6 +18,17 @@ Mecanismos Focales:
 
 Sismos_Input:
 
+https://earthquake.usgs.gov/earthquakes/search/
 
-Eigen-6c4_76909.gdf
+Eigen-6c4_76909.gdf: 
 
+Foerste, Christoph; Bruinsma, Sean.L.; Abrikosov, Oleg; Lemoine, Jean-Michel; Marty, Jean Charles; Flechtner, Frank; Balmino, G.; Barthelmes, Franz; Biancale, Richard (2014): EIGEN-6C4 The latest combined global gravity field model including GOCE data up to degree and order 2190 of GFZ Potsdam and GRGS Toulouse. GFZ Data Services. https://doi.org/10.5880/icgem.2015.1
+
+
+Cuenca Parana.txt: 
+
+    Lehner, B., Verdin, K., Jarvis, A. (2008): New global hydrography derived from spaceborne elevation data. Eos, Transactions, AGU, 89(10): 93-94.
+    
+    Lehner, B., Grill G. (2013): Global river hydrography and network routing: baseline data and new approaches to study the world’s large river systems. Hydrological Processes, 27(15): 2171–2186.
+    
+    https://hydrosheds.org/
